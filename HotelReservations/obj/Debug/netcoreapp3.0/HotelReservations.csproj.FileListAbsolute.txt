@@ -9,3 +9,14 @@ C:\Users\Lazar\Desktop\Hotel Reservations\HotelReservations\HotelReservations\ob
 C:\Users\Lazar\Desktop\Hotel Reservations\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.AssemblyInfo.cs
 C:\Users\Lazar\Desktop\Hotel Reservations\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.dll
 C:\Users\Lazar\Desktop\Hotel Reservations\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.pdb
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.exe
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.deps.json
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.runtimeconfig.json
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.runtimeconfig.dev.json
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.dll
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.0\HotelReservations.pdb
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.csprojAssemblyReference.cache
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.AssemblyInfo.cs
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.dll
+C:\Users\Lazar\Desktop\git\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.0\HotelReservations.pdb

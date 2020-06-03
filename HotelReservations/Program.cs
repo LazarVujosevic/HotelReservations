@@ -8,19 +8,25 @@ namespace HotelReservations
         
         static void Main(string[] args)
         {
-            HotelBusiness hb = new HotelBusiness();
+            HotelBusiness hotelBusiness = new HotelBusiness();
 
-            hb.InsertRooms(2);
-            (int s, int e) period = (0,0);
-            while (period.s != -5)
+            int numberOfRooms;
+            Console.WriteLine("Number of rooms:");
+            numberOfRooms = int.Parse(Console.ReadLine());
+
+            hotelBusiness.InsertRooms(numberOfRooms);
+            (int startDay, int endDay) period = (0,0);
+
+            //-365 is number for exit booking loop
+            while (period.startDay != -365)
             {
-                Console.WriteLine("S:");
-                period.s = int.Parse(Console.ReadLine());
+                Console.WriteLine("Start Day:");
+                period.startDay = int.Parse(Console.ReadLine());
 
-                Console.WriteLine("E:");
-                period.e = int.Parse(Console.ReadLine());
+                Console.WriteLine("End Day:");
+                period.endDay = int.Parse(Console.ReadLine());
 
-                hb.BookRoom(period);
+                hotelBusiness.BookRoom(period);
             }
 
             Console.ReadLine();

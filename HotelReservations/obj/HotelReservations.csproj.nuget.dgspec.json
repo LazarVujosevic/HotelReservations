@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lazar\\Desktop\\Hotel Reservations\\HotelReservations\\HotelReservations\\HotelReservations.csproj": {}
+    "C:\\Users\\Lazar\\Desktop\\git\\HotelReservations\\HotelReservations\\HotelReservations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lazar\\Desktop\\Hotel Reservations\\HotelReservations\\HotelReservations\\HotelReservations.csproj": {
+    "C:\\Users\\Lazar\\Desktop\\git\\HotelReservations\\HotelReservations\\HotelReservations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lazar\\Desktop\\Hotel Reservations\\HotelReservations\\HotelReservations\\HotelReservations.csproj",
+        "projectUniqueName": "C:\\Users\\Lazar\\Desktop\\git\\HotelReservations\\HotelReservations\\HotelReservations.csproj",
         "projectName": "HotelReservations",
-        "projectPath": "C:\\Users\\Lazar\\Desktop\\Hotel Reservations\\HotelReservations\\HotelReservations\\HotelReservations.csproj",
+        "projectPath": "C:\\Users\\Lazar\\Desktop\\git\\HotelReservations\\HotelReservations\\HotelReservations.csproj",
         "packagesPath": "C:\\Users\\Lazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lazar\\Desktop\\Hotel Reservations\\HotelReservations\\HotelReservations\\obj\\",
+        "outputPath": "C:\\Users\\Lazar\\Desktop\\git\\HotelReservations\\HotelReservations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lazar\\AppData\\Roaming\\NuGet\\NuGet.Config",

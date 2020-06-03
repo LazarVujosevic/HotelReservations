@@ -9,6 +9,7 @@ namespace HotelReservations
     {
         public static bool isFree(this Room room, (int startDate, int endDate) period)
         {
+            //If Count is 0, room don't have reservations and can book every valid period. 
             if (room.Reservations.Count == 0)
             {
                 if (period.startDate >= 0 && period.startDate <= 365 && period.endDate >= 0 && period.endDate <= 365)
